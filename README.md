@@ -1,6 +1,6 @@
 # Disclaimer:
 
-> This is my final project for back-end rookie. It is _currently_ my proudest work among the many things I've made for bit-academy. It has a functional database intergrated by PDO with a login-system using sessions. I have not bothered translated it to English because It is a code showcase, it is not and was not made for day-to-day use.
+> This is my final project for back-end rookie. It is _currently_ my proudest work among the many things I've made for bit-academy. It has a functional database integrated by PDO with a login system using sessions. I have not bothered to translate it to English because It is a code showcase, it is not and was not made for day-to-day use.
 
 # Receptbeheer
 
@@ -30,7 +30,7 @@ Volg deze stappen om de applicatie op je lokale server te draaien:
 
    ```php
    <?php
-   // Database configuratie
+   // Database configuration
    define('DB_HOST', 'localhost');
    define('DB_NAME', 'recept_beheer');
    define('DB_USER', 'root');
